@@ -3537,10 +3537,10 @@ svelte-material-ui@^1.0.0-beta.19:
     "@smui/textfield" "1.0.0-beta.19"
     "@smui/top-app-bar" "1.0.0-beta.19"
 
-svelte@^3.0, svelte@^3.9.1:
-  version "3.16.6"
-  resolved "https://registry.npm.taobao.org/svelte/download/svelte-3.16.6.tgz#0caaec6515fe498bc5fe464cfccf8ce6a88be6c9"
-  integrity sha1-DKrsZRX+SYvF/kZM/M+M5qiL5sk=
+svelte@^3.0, svelte@^3.49.0:
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
+  integrity sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==
 
 svgo@^1.0.0:
   version "1.3.2"
